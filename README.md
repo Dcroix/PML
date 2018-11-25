@@ -1,3 +1,3 @@
 ---
-permalink: /index.html
+permalink: /PML_Project.html
 ---
